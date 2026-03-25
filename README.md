@@ -14,11 +14,6 @@ LexOra is an interactive English vocabulary learning platform built for Bangla-s
 
 ---
 
-## 📸 Preview
- 
-![LexOra Home](./assets/homePage.png)
-
----
 ## 🌍 Deployment
 
 ```
