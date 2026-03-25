@@ -1,5 +1,3 @@
-# 🟦 LexOra — English Vocabulary Learning Platform
-
 > **Live Site:** [thelexora.netlify.app](https://thelexora.netlify.app/)
 
 LexOra is an interactive English vocabulary learning platform built for Bangla-speaking learners. Users can browse vocabulary by lesson level, search for specific words, and view detailed word information through a clean modal interface.
@@ -16,6 +14,11 @@ LexOra is an interactive English vocabulary learning platform built for Bangla-s
 
 ---
 
+## 📸 Preview
+ 
+![LexOra Home](./assets/homePage.png)
+
+---
 ## 🌍 Deployment
 
 ```
