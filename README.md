@@ -1,21 +1,17 @@
-> **Live Site:** [thelexora.netlify.app](https://thelexora.netlify.app/)
+##  **LexOra — English Vocabulary Learning Platform**
 
-LexOra is an interactive English vocabulary learning platform built for Bangla-speaking learners. Users can browse vocabulary by lesson level, search for specific words, and view detailed word information through a clean modal interface.
+> Live Site: [thelexora.netlify.app](https://thelexora.netlify.app/)
 
----
+LexOra is an interactive web application designed to help Bengali-speaking learners build their English vocabulary in a structured and engaging way.
 
-## ✨ Features
+**Key Features:**
+* Lesson-based vocabulary modules with level selection
+* Real-time word search across entire vocabulary database
+* Pronunciation support using Web Speech API
+* Detailed word breakdown — meaning, example sentence & synonyms
+* Dynamic data fetching from REST API
+* Fully responsive UI across mobile, tablet & desktop
+* Clean, modern interface built with Tailwind CSS & DaisyUI
 
-- 📚 **Level-based Lessons** — Browse vocabulary organized by difficulty levels
-- 🔍 **Vocabulary Search** — Instantly search for any word across all lessons
-- 🃏 **Word Detail Modal** — Click any word card to see full details
-- 📱 **Fully Responsive** — Works seamlessly on mobile, tablet, and desktop
-- 🌐 **Bangla + English** — UI supports both Bangla and English content
-
----
-
-## 🌍 Deployment
-
-```
-Site URL: https://thelexora.netlify.app/
-```
+#  **Tech Stack:**
+* HTML · CSS · JavaScript · Tailwind CSS · DaisyUI · REST API · Web Speech API
